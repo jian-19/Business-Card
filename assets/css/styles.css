@@ -26,8 +26,12 @@ body {
 
 }
 
+.background {
+    margin-right: 60px;
+}
+
 .card {
-    max-height: 90vh;
+    max-height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -57,7 +61,6 @@ body {
     color: white;
     height: 600px;
     width: 300px;
-    text-decoration: none;
   }
 
 .buttons {
